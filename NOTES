@@ -1,0 +1,8 @@
+* Talk about Bifunctor, Bifoldable
+* Talk about BiprodInstances (implicit resolution)
+* Talk about kind-projector
+* Talk about using classes to share instance code
+
+* Talk about laws and test modules
+* Talk about CatsSuite and JVM/JS split
+* Talk about serializable tests (Frameless!)
