@@ -2,7 +2,10 @@
 * Talk about BiprodInstances (implicit resolution)
 * Talk about kind-projector
 * Talk about using classes to share instance code
+* Eq instance
 
 * Talk about laws and test modules
 * Talk about CatsSuite and JVM/JS split
 * Talk about serializable tests (Frameless!)
+* Arbitrary instance
+* Talk about testing instances
