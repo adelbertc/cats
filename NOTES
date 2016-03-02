@@ -1,4 +1,4 @@
-* Talk about Bifunctor, Bifoldable
+* Talk about Bifunctor, Bifoldable, Bitraverse
 * Talk about BiprodInstances (implicit resolution)
 * Talk about kind-projector
 * Talk about using classes to share instance code
